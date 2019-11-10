@@ -1,3 +1,2 @@
 # Webmarkup-Assessment
-Index.html main file
-style css file
+All Files are in the folder Webmarkup-Assessment
