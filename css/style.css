@@ -119,7 +119,7 @@ video
         display: block;
     }
 }
-@media screen and (max-width:600px)
+@media screen and (max-width:1179px)
 {
     ul{
         flex-direction: column;
